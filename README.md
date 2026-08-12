@@ -1,4 +1,6 @@
 # fakecake-demo
-This is my first git repository
+
+This is my first git repository hello
 <br>
-Author- Shaikh Tasmiyah
+Author- Shaikh (tasmiyah)
+ git status
